@@ -1,0 +1,9 @@
+#top {
+	padding-top: 50px;
+}
+
+.text-monospace {
+	font-family: ui-monospace;
+	font-size: 22px;
+	height: 200px;
+}
